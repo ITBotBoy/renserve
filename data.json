@@ -1,0 +1,29 @@
+{
+    "iconfontSrc": "//at.alicdn.com/t/font_2576838_mndfoug9tis.css",
+    "menu": [
+        {
+            "title": "理财工具",
+            "icon": "icon-licai",
+            "list": [
+                {
+                    "title": "利率计算",
+                    "href": "/coin",
+                    "icon": "https://tools.renserve.com/coin/favicon.png",
+                    "description": "COIN涨幅价格计算小工具"
+                }
+            ]
+        },
+        {
+            "title": "学习工具",
+            "icon": "icon-xuexi",
+            "list": [
+                {
+                    "title": "英语学习",
+                    "href": "/english",
+                    "icon": "https://tools.renserve.com/english/favicon.ico",
+                    "description": "记录英语学习数据小工具"
+                }
+            ]
+        }
+    ]
+}
